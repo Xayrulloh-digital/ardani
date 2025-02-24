@@ -1,2 +1,1 @@
-# ardani
-Ardani kelin look
+Idrok
